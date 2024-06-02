@@ -28,6 +28,11 @@ Instructions
 * Use thick wire to connect negative battery contact to the outher bigger contact
 * Use thin wire to connect the gate signal from the original board to the
   outher smalle contact of the new PCB
+* Use thin wire to connect the motor negative, the middle contact in the new
+  PCB, back to the original board where the motor negative was connected.
+  There is a circuit that is connected in parallel to the transistors that
+  allows detection of the closed cicuit via motor and switch. Beware that this
+  wire is not on the photos!
 
 Parkside oprava FET transistoru
 ===============================
@@ -57,6 +62,11 @@ Instrukce
 * Pouzijte tlusty drat pro pripojeni zaporneho kontaktu baterie k vnejsimu vetsimu kontaktu
 * Pouzijte tenky drat pro pripojeni ridiciho signalu gate z originalni desky na
   vnejsi mensi kontakt noveho plosneho spoje
+* Pouzijte tenky drat pro pripojeni zaporneho kontaktu motoru ze stredu noveho
+  plosneho spoje, zpatky na originalni plosny spoj, kde byl pred tim pripojen
+  zaporny kontakt motoru. Na desce je obvod pripojeny paraelne k tranzistorum,
+  ktery umoznuje detekci uzavreneho obvodu pres motor a vypinac. Pozor na fotce
+  tento drat chybi!
 
 ![Transistors](trans.png)
 ![Saw repair 01](parkside-repair-01.jpg)
