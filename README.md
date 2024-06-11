@@ -1,6 +1,9 @@
 Parkside FET transistor repair
 ==============================
 
+> [!NOTE]
+> Make sure to read the [description](DESCRIPTION.md) first.
+
 The cheaper green line of Parkside 'X 20 V Team' tools has a problem with FET
 transistor not being able to handle the current when the motor gets under a
 load. In that case the transistors burn and partially damage the PCB with the
@@ -36,6 +39,9 @@ Instructions
 
 Parkside oprava FET transistoru
 ===============================
+
+> [!NOTE]
+> Nejdrive si prectete [popis](DESCRIPTION.md).
 
 Levnejsi zelena rada naradi Parkside 'X 20 V Team' ma problemy s FET
 tranzistory, ktere nezvladaji proud motorem pod zatezi a shori pricemz castecne
